@@ -12,7 +12,7 @@ A full-stack web application designed to provide meal plans for diabetic patient
 The shapes around the texts represent an image placeholders
 
 **Login Page**
-![Login](https://github.com/user-attachments/assets/232018cc-9674-42d3-abdf-9fc960629e94)
+![Group 1](https://github.com/user-attachments/assets/ecbc9340-c140-4160-9c15-b0accbf93eae)
 
 **Meal Plan Option 1**
 ![Meal Plan](https://github.com/user-attachments/assets/c02bd804-d1ba-4b75-9571-5d1e34c85785)
