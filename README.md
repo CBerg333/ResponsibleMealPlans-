@@ -20,4 +20,5 @@ The shapes around the texts represent an image placeholders
 **Meal Plan Option 2**
 ![Meal Plan2](https://github.com/user-attachments/assets/d7d746ce-6957-4eab-8d2b-1596fe9f1d55)
 
+The shapes beside the text "Recipe Name" is another image placeholder
 
