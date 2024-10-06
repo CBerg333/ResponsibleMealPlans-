@@ -8,3 +8,5 @@ Homepage Design Option 1
 Hompage Design Option 2
 
 ![Homepage option 2 - 2](https://github.com/user-attachments/assets/b87dc109-71f5-481f-81c3-894e438f3f65)
+
+The shapes around the texts represent an image placeholder 
